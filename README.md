@@ -1,16 +1,7 @@
 # together
 
-beautiful cook application
+2022년 최고의 요리 어플리캐이션
+기존 Neighbor chef의 모든 정보들을 상속받고 부족했던 것들을 보완하여 사용자에게 더욱 친화적인 서비스로 탄생하였다.
+더욱 더 많은 내용을 알고싶다면 조금만 기다려달라
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+together came closed
